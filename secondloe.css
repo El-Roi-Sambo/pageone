@@ -15,7 +15,7 @@
 }
 
 .firstpagebackground {
-    background-image: url("medievalknightillustration.jpg");
+    background-image:"medievalknightillustration.jpg";
     background-color: #f0f0f0;
     background-attachment:fixed;
     background-position:center;
@@ -43,3 +43,4 @@
   text-decoration:none;
 
 }
+
